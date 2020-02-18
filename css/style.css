@@ -22,10 +22,12 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 
 .costo-biglietto-scontato {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
